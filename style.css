@@ -1,0 +1,26 @@
+
+body{
+background-image: url('https://w.wallhaven.cc/full/0j/wallhaven-0jloe5.png');
+
+
+}
+div{
+    position: absolute;
+    top: 40%;  
+    left: 40%;
+    border: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 2px 2px 5px rgba(7, 158, 113, 0.74);
+    border: 1px groove  rgba(67, 7, 136, 0.507);
+    }
+#logo{
+ float: right;
+ weight: 200px; 
+ width:  200px;  
+}
+#boton{
+margin-left: 40%;
+text-shadow: 2px 2px 5px rgb(7, 158, 113);
+}
